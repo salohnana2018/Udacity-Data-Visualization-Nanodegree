@@ -20,3 +20,5 @@ What’s the most profitable product category on average in Iowa across all year
 What is the most popular product in that category across all states in 2016?
 What was the most profitable month in 2018 overall?
 How widely did monthly profits vary in 2018?
+
+## [Dataset link](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
